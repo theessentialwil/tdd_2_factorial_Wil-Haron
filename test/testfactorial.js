@@ -8,4 +8,8 @@ describe("Factorial unit test", () => {
   it("Factorial test", () => {
     assert.equal(factorial(3), 6);
   });
+
+  it("Factorial test", () => {
+    assert.equal(factorial(7), 7 * 6 * 5 * 4 * 3 * 2 * 1);
+  });
 });
