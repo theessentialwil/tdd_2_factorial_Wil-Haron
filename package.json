@@ -2,7 +2,7 @@
   "name": "testddworkspace",
   "version": "1.0.0",
   "description": "",
-  "main": "multiply.js",
+  "main": "factorial.js",
   "scripts": {
     "test": "mocha || true"
   },
